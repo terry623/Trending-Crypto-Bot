@@ -1,0 +1,17 @@
+{
+  "name": "trending-crypto-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Terry Lin",
+  "dependencies": {
+    "axios": "^0.27.1",
+    "dotenv": "^16.0.0",
+    "node-telegram-bot-api": "^0.57.0",
+    "nodemon": "^2.0.15"
+  }
+}
